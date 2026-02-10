@@ -64,4 +64,14 @@ Resolution: Successfully implemented the MSET9 exploit by manipulating Data Mana
 
 #system image links
 
-https://github.com/jsknill/3DS-Console-Preservation-Homebrew-Integration/blob/main/20260208_105754%5B1%5D.jpg
+Original System Version: https://github.com/jsknill/3DS-Console-Preservation-Homebrew-Integration/blob/main/20260208_105754%5B1%5D.jpg
+
+H Shop https://github.com/jsknill/3DS-Console-Preservation-Homebrew-Integration/blob/main/20260209_184559%5B1%5D.jpg
+
+Homebrew Launcher https://github.com/jsknill/3DS-Console-Preservation-Homebrew-Integration/blob/main/20260209_184617%5B1%5D.jpg
+
+Universal Updater https://github.com/jsknill/3DS-Console-Preservation-Homebrew-Integration/blob/main/20260209_184623.jpg
+
+Homebrew launcher https://github.com/jsknill/3DS-Console-Preservation-Homebrew-Integration/blob/main/20260209_184833.jpg
+
+FBI Luma and GM9 https://github.com/jsknill/3DS-Console-Preservation-Homebrew-Integration/blob/main/20260209_184914.jpg
