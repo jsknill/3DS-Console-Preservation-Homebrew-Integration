@@ -61,3 +61,7 @@ Challenge 4: Firmware Version Constraints (v11.17.0)
 Problem: System version 11.17.0 patched most entry-point exploits, typically requiring hardware-based solutions (flashcarts).
 
 Resolution: Successfully implemented the MSET9 exploit by manipulating Data Management files on the SD card to trigger a controlled memory overflow, bypassing the need for additional hardware.
+
+#system image links
+
+https://github.com/jsknill/3DS-Console-Preservation-Homebrew-Integration/blob/main/20260208_105754%5B1%5D.jpg
